@@ -7,7 +7,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 
 // 🔴 CHANGE THIS to your deployed backend URL (Render / Railway / AWS)
 // Example: 'https://hotel-api.onrender.com'
-export const BASE_URL = 'https://20202257-dd04-40b8-aa4b-fe2d8c15fc1d-00-oci1sb6rtt5p.sisko.replit.dev';
+export const BASE_URL = 'https://hotelbackend-kl7m0xfh.b4a.run/';;
 
 const api = axios.create({
   baseURL: `${BASE_URL}/api`,

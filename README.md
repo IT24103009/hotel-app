@@ -46,7 +46,7 @@ Open `src/config/api.js` and change `BASE_URL`:
 
 ```js
 // Change this to your deployed backend URL
-export const BASE_URL = 'https://your-hotel-api.onrender.com';
+export const BASE_URL = 'https://20202257-dd04-40b8-aa4b-fe2d8c15fc1d-00-oci1sb6rtt5p.sisko.replit.dev/';
 ```
 
 > ⚠️ **IMPORTANT:** The backend MUST be hosted (Render/Railway/AWS).
